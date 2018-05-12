@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37938
     wikipedia: http://www.gutenberg.org/ebooks/author/42863
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35858#Bill-Bolton-Flying-Midshipman
 gutenberg_issued: '2011-04-12'
 gutenberg_type: Text
 identifiers:
